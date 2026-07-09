@@ -1,4 +1,14 @@
 # 🧪 Automated Testing Study
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
+![TestContainers](https://img.shields.io/badge/TestContainers-1A567E?style=for-the-badge&logo=testcontainers&logoColor=white)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-3E863D?style=for-the-badge&logo=cucumber&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 API REST em **Java + Spring Boot** para gerenciamento de pessoas (**Person**), construída com foco total em **cobertura de testes automatizados**  unitários e de integração usando **JUnit 5**, **Mockito**, **TDD**, **Spring Boot Test**, **TestContainers** e **REST Assured**.
 
