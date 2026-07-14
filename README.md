@@ -202,3 +202,9 @@ Além de ser uma API funcional de CRUD de pessoas, o projeto serve como referên
 - Testes da camada web com `@WebMvcTest` na camada de controller;
 - Testes de integração completos com banco MySQL real via TestContainers;
 - Testes de API com REST Assured e validação da documentação Swagger.
+
+## FOTOS DOS TESTES
+<img width="783" height="233" alt="Captura de tela 2026-07-14 175252" src="https://github.com/user-attachments/assets/f0028d6a-5d20-4757-9282-260541fbfa55" />
+<img width="775" height="218" alt="Captura de tela 2026-07-14 175315" src="https://github.com/user-attachments/assets/fb48aab7-5ed6-4afc-9fff-82b2510b8e27" />
+
+
